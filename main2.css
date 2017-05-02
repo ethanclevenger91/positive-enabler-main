@@ -1,0 +1,197 @@
+@charset "utf-8";
+
+.headline {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #02BEC7;
+
+}
+.headline-bigger {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 35px;
+	color: #02BEC7;
+}
+
+.headline-orange {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #FCB13C;
+}
+.headline-white {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #FFF;
+}
+
+
+
+
+.body {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+
+}
+
+.body a:link{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #AE0F2F;
+
+	}
+
+.body a:visited{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #AE0F2F;
+
+	}
+
+.body a:hover{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #F89F1F;
+
+	}
+
+.body a:active{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #AE0F2F;
+
+}
+
+.body-purple {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #FCB13C;
+	font-weight: normal;
+
+}
+
+
+
+.callouts {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #900;
+	text-align: center;
+	line-height: 26px;
+
+}
+
+.callouts-purple {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FCB13C;
+	text-align: center;
+	line-height: 26px;
+
+}
+
+
+
+.callouts-left {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #900;
+	text-align: left;
+	line-height: 26px;
+
+}
+
+
+
+.navigation {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #00C0C5;
+
+}
+.navigation-red {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+}
+
+
+
+
+.navigation a:link{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #05C4D6;
+
+}
+
+.navigation a:visited{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #00BFC4;
+
+}
+
+.navigation a:hover{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FCB13C;
+
+}
+
+.navigation a:active{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #00D1CE;
+
+}
+
+.tagline {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-style: italic;
+	color: #FCB13C;
+	line-height: 30px;
+
+}
+
+
+
+.navigation1 {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+
+}
+
+.navigation1 a:link{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+
+}
+
+.navigation1 a:visited{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+
+}
+
+.navigation1 a:hover{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+
+}
+
+.navigation1 a:active{
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: ##FFFFFF;
+
+}
